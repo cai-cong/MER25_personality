@@ -1,4 +1,4 @@
-# IERP 2024 Baseline || <a href="http://www.iscslp2024.com/emotionChallenges">HOMEPAGE</a>
+# MER 2025 Personality Baseline || <a href="https://zeroqiaoba.github.io/MER2025-website/">MER25 HOMEPAGE</a> ||<a href="https://huggingface.co/datasets/MERChallenge/MER2025">MER25 Huggingface</a> 
 
 ## Baseline model: Linear / GRU Attention Regressor
 
