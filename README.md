@@ -18,6 +18,15 @@ MER2025_personality is the MER25 Challenge @ ACM MM & MRAC25 Workshop @ ACM MM E
 python main.py --feature_set baichuan13B-base  --epochs 200 --batch_size 128 --lr 0.0001 
 ```
 
+## Suggestion
+We suggest that participants can first improve from the following perspectives:
+
+1. Extract richer features.
+2. Use more robust model structures. (including pre-trained models, large models, etc.)
+3. Use emotional label.
+
+
+
 ## Citation
 For more details about MDPE, please refer to:
 [MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristics](https://arxiv.org/abs/2407.12274)
