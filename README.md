@@ -1,4 +1,10 @@
-# MER 2025 Personality Baseline || <a href="https://zeroqiaoba.github.io/MER2025-website/">MER25 HOMEPAGE</a> ||<a href="https://huggingface.co/datasets/MERChallenge/MER2025">MER25 Huggingface</a> 
+# MER 2025 Personality Baseline 
+
+<a href="https://zeroqiaoba.github.io/MER2025-website/">MER25 HOMEPAGE</a> ||<a href="https://huggingface.co/datasets/MERChallenge/MER2025">MER25 Huggingface</a> 
+
+## Installation 
+Create a virtenv; check and install packages in requirements.txt; download the data; adjust paths in `config.py`; run sample calls. 
+
 
 ## Baseline model: Linear / GRU Attention Regressor
 
