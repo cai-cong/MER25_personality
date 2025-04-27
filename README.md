@@ -2,8 +2,10 @@
 
 <a href="https://zeroqiaoba.github.io/MER2025-website/">MER25 HOMEPAGE</a> ||<a href="https://huggingface.co/datasets/MERChallenge/MER2025">MER25 Huggingface</a> 
 
-## Installation 
-Create a virtenv; check and install packages in requirements.txt; download the data; adjust paths in `config.py`; run sample calls. 
+## Data Download 
+<a href="https://huggingface.co/datasets/MDPEdataset/MDPE_Dataset/tree/main/">Train & Val Data</a> ||<a href="https://huggingface.co/datasets/MDPEdataset/MER2025_personality/">Test Data</a> 
+
+
 
 
 ## Baseline model: Linear / GRU Attention Regressor
