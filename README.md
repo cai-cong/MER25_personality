@@ -12,7 +12,7 @@ MER2025_personality is the MER25 Challenge @ ACM MM & MRAC25 Workshop @ ACM MM E
 ## Requirements
 
 ```
-pip install -r /path/to/requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run: Sample 
