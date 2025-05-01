@@ -9,7 +9,11 @@
 
 MER2025_personality is the MER25 Challenge @ ACM MM & MRAC25 Workshop @ ACM MM Emotion-enhanced Personality Recognition Track4.
 
+## Requirements
 
+```
+pip install -r /path/to/requirements.txt
+```
 
 ## Run: Sample 
 
